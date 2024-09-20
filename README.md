@@ -15,6 +15,7 @@ Key Features:
 User-Friendly Interface:
   - MFBBOX features an intuitive graphical user interface (GUI) that simplifies the tracking of telemetry data. This interface enables operators to access real-time data in a
     streamlined,  easily understandable format, making it ideal for mission-critical applications.
+    ![gui_ss](https://github.com/user-attachments/assets/efa57bb6-1f3d-41e3-ab20-3260028f6ae7)
 
 Use Cases and Compatibility:
   - Unmanned Ground Vehicles: MFBBOX has been successfully tested on unmanned ground vehicles, demonstrating its ability to handle dynamic environments and collect crucial operational
