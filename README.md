@@ -22,6 +22,7 @@ User-Friendly Interface:
 Use Cases and Compatibility:
   - Unmanned Ground Vehicles: MFBBOX has been successfully tested on unmanned ground vehicles, demonstrating its ability to handle dynamic environments and collect crucial operational
     data.
+      - video test on UGV : https://youtu.be/CjkOBllPJM4
   - Unmanned Aerial Systems (UAS): Ideal for drones and other aerial platforms, MFBBOX can provide real-time data for applications such as surveillance, mapping, and monitoring.
   - Unmanned Marine Vehicles: Whether for surface or underwater vehicles, MFBBOX can easily be adapted for marine research, environmental monitoring, and exploration tasks.
 
