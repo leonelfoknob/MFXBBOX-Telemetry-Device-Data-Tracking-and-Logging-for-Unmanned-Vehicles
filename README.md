@@ -39,3 +39,5 @@ AI and Future Developments:
     vehicles.
 *****************************************************************************************************************************************************************************************
 With its comprehensive data collection and logging capabilities, MFBBOX offers a powerful solution for tracking unmanned vehicles and building datasets for AI-driven insights. Its flexible design ensures compatibility with various vehicle platforms, and future updates will make it an even more integral part of unmanned systems.
+*****************************************************************************************************************************************************************************************
+To buy or more details about project contact us.
