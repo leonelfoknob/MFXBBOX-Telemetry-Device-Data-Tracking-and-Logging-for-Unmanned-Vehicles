@@ -1,6 +1,8 @@
 # MFBBOX-Telemetry-Device-Data-Tracking-and-Logging-for-Unmanned-Vehicles
 
 MFBBOX is an advanced telemetry device designed for real-time data tracking and logging in unmanned vehicles. Built to collect and transmit essential telemetry data, MFBBOX is a crucial tool for monitoring unmanned systems in various fields such as exploration, research, and operational surveillance. While it currently focuses on data collection, MFBBOX lays the groundwork for future vehicle control capabilities.
+******************************************************************************************************************************************************************************************
+![mfbbox](https://github.com/user-attachments/assets/1b25c3ad-2010-4cf6-9361-cd9a5682f063)
 
 Key Features:
   - Real-Time Data Tracking: MFBBOX streams live data including acceleration, speed, heading, pressure, altitude, rotational angle, position, and battery information, ensuring operators
